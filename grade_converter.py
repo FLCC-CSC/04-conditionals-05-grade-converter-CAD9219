@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Collin Dillabough
+# DATE: 02/27/2026
+# BRIEF DESCRIPTION:Program to convert number grade to letter grade.   
 
 
 
