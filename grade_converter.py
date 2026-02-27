@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Collin Dillabough
+# DATE: 02/27/2026
+# BRIEF DESCRIPTION:Program to convert number grade to letter grade.   
 
 
 
@@ -19,7 +19,7 @@ print('===== Grade Converter =====')
 
 percent = int(input('Enter a numerical grade (1-100): '))
 
-if percent > 100:
+if percent >= 100:
     print('A+')
 elif percent >= 90:
     print('A')
@@ -84,9 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
-
-
+I opened the lab and had the complete code already written in the file.
 
 
 
